@@ -28,8 +28,7 @@ in the algorithms for better results.
 - 'category' : Category niche of each of the video
 
 ## Objective
-To build a machine learning regression to predict youtube adview count based
-on other youtube metrics.
+To perform multiple types of regression models on the dataset and find out which is the best.
 
 ## Steps and Tasks
 1. Import the datasets and libraries, check shape and datatype.
@@ -43,8 +42,3 @@ set in the appropriate ratio.
 6. Use linear regression, Support Vector Regressor for training and get
 errors.
 7. Use Decision Tree Regressor and Random Forest Regressors.
-8. Build an artificial neural network and train it with different layers
-and hyperparameters. Experiment a little. Use keras.
-9. Pick the best model based on error as well as
-generalisation.
-10. Save your model and predict on the test set.
